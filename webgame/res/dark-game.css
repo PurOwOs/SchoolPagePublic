@@ -27,7 +27,7 @@ nav li {
 a {
     text-decoration: none;
     color: #bb0000; /* modrá */
-    background: #333; /* střední šedá */
+    background: #252525; /* střední šedá */
     padding: 10px;
     border-radius: 4px;
 }
@@ -38,7 +38,7 @@ a:hover {
 }
 
 footer {
-    background: #151515; /* tmavá šedá */
+    background: #000000; /* tmavá šedá */
     display: flex; /* umožňuje flexibilní rozložení prvků */
 	align-items: center; /* zajistí vertikální zarovnání prvků ve středu */
     justify-content: center; /* zase zaručí, že celý obsah (fotografie a text) bude horizontálně vycentrován */
