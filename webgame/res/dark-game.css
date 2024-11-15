@@ -4,7 +4,7 @@ body {
     color: #bb0000; /* světlá šedá */
     background-color: #000000 ; /* tmavé pozadí */
     margin: 0;
-    background-image:url(/res/activate-windows.png);
+    background-image:url(activate-windows.png);
     background-position: bottom right;
     background-repeat: no-repeat;
     background-attachment: fixed;
